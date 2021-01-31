@@ -1,1 +1,4 @@
+ttile: "How to manage my lfie, my PhD and my eating disorder"
 theme: jekyll-theme-minimal
+execute:
+  execute_notebooks: "off"

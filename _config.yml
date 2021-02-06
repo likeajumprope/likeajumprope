@@ -1,4 +1,5 @@
-ttile: "How to manage my lfie, my PhD and my eating disorder"
-theme: jekyll-theme-minimal
+#######################################################################################
+title: "Machine learning, the universe and all the rest"
+
 execute:
   execute_notebooks: "off"

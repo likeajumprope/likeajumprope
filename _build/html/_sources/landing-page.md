@@ -1,2 +1,2 @@
-# Hello!
-Hi this is the first page of my website
+
+# Hi, you made it to my webpage!

@@ -1,5 +1,5 @@
 #######################################################################################
 title: "Machine learning, the universe and all the rest"
-
+logo : static/Johanna.jpg
 execute:
   execute_notebooks: "off"

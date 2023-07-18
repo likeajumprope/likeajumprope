@@ -10,3 +10,5 @@
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
+
+![GitHub Snake dark](https://github.com/likeajumprope/likeajumprope/blob/output/github-contribution-grid-snake.svg)
